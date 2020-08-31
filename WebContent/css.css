@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color:#9B2335;
+}
+table
+{
+	border: 5px groove;
+	cellspacing: 20px;
+	
+}
+
+th
+{
+	background-color:#ccb3ff;
+	color:black;
+	font-weight:bold;
+}
+tr:
+{
+	background-color:#ccb3ff;
+	color:black;
+}
